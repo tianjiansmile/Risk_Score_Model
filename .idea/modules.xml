@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Person_Anti_Fraud/.idea/Person_Anti_Fraud.iml" filepath="$PROJECT_DIR$/../Person_Anti_Fraud/.idea/Person_Anti_Fraud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Risk_Score_Model.iml" filepath="$PROJECT_DIR$/.idea/Risk_Score_Model.iml" />
+    </modules>
+  </component>
+</project>
